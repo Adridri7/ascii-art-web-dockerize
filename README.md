@@ -1,5 +1,5 @@
 
-# 📜 Ascii-Art-Web-Stylize
+# 📜 Ascii-Art-Web-Dockerize
 
 Ascii-Art project on web server handled in Golang 1.22.4.
 
@@ -33,13 +33,13 @@ Ascii-Art project on web server handled in Golang 1.22.4.
 Clone the project repo
 
 ```bash
-  git clone https://zone01normandie.org/git/arocchet/ascii-art-web-stylize
+  git clone https://zone01normandie.org/git/arocchet/ascii-art-web-dockerize
 ```
 
 Go to the project directory
 
 ```bash
-  cd ascii-art-web-stylize
+  cd ascii-art-web-dockerize
 ```
 
 Run the example
