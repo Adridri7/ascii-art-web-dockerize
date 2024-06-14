@@ -45,7 +45,10 @@ Go to the project directory
 Run the example
 
 ```bash
-  go run .
+  bash run.sh
+  sudo docker exec -it web /bin/bash
+  ls -l
+  bash del.sh
 ```
 
 ## 📃 Informations
