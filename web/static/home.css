@@ -1,0 +1,76 @@
+@font-face {
+  font-family: 'coffee_sparkregular';
+  src: url('coffee_spark-webfont.woff2') format('woff2'),
+       url('coffee_spark-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'coffee_fillsregular';
+  src: url('coffee_fills-webfont.woff2') format('woff2'),
+       url('coffee_fills-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'ibm_plex_sanstext';
+  src: url('ibmplexsans-text-webfont.woff2') format('woff2'),
+       url('ibmplexsans-text-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+html {
+  font-family: 'coffee_fillsregular';
+  margin: 20px;
+  background-color: #373737;
+  letter-spacing :0.3px;
+}
+
+.myDiv {
+  color: white;
+  text-align: center;
+}
+
+
+.themes{
+  background-color: #A5A5A5;
+  font-family: 'coffee_fillsregular';
+}
+
+input {
+  background-color: #5ab212 ;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border: 2px solid #5ab212;
+  border-radius: 5px;
+  font-family: 'coffee_fillsregular';
+}
+
+select{
+  font-family: 'coffee_fillsregular';
+}
+
+
+textarea {
+  background-color: #464748;
+  color: #FFFFFF;
+  border: 2px solid #464748;
+  border-radius: 5px;
+  font-family: 'coffee_fillsregular';
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-color: #45a1ff;
+  color: #fff;
+}
